@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hello World 👋 I am Adrián
+<h3>This is my GitHub account and here I will be commiting my personal proyects from now on. You can look as much as you want.</h3>
+<h4>Here is a list of the languajes I did work with:</h4>
+<p><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png", width=30, height=30><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png", width=30, height=30><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png", width=30, height=30><img src="https://cdn-icons-png.flaticon.com/256/174/174854.png", width=30, height=30><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg", width=30, height=30><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png", width=30, height=30></p>
 <!--
 **AdrianTrr/adriantrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
