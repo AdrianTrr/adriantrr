@@ -1,7 +1,12 @@
 ## Hello World 👋 I am Adrián
-<h3>This is my GitHub account and here I will be commiting my personal proyects from now on. You can look as much as you want.</h3>
-<h4>Here is a list of the languajes I did work with:</h4>
-<p><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png", width=30, height=30><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png", width=30, height=30><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png", width=30, height=30><img src="https://cdn-icons-png.flaticon.com/256/174/174854.png", width=30, height=30><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg", width=30, height=30><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png", width=30, height=30></p>
+<h3>This is my GitHub account and here I will be commiting my personal projects from now on. <br><br>You can look as much as you want.</h3>
+<h4>Here you have a list of the languajes I did work with 🗣:</h4>
+<p><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png", width=50, height=50><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png", width=50, height=50><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png", width=50, height=50><img src="https://cdn-icons-png.flaticon.com/256/174/174854.png", width=50, height=50><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg", width=50, height=50><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png", width=50, height=50></p>
+<h4>Also here is a list of other technologies I have used 💻:</h4>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png", width=50, height=50><img src="https://brandlogo.org/wp-content/uploads/2024/02/MySQL-Logo-300x300.png.webp", width=50, height=50><img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg", width=50, height=50><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png", width=50, height=50><img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png", width=50, height=50></p>
+
+<p>Contact ✉️: adrian.trr0504@gmail.com</p>
+<p><a href="https://www.linkedin.com/in/adrián-terrón-ruiz-315294272/">LinkedIn</a></p>
 <!--
 **AdrianTrr/adriantrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
